@@ -1,0 +1,14 @@
+{
+  "name": "baseuri",
+  "version": "1.0.0",
+  "description": "Generate data: link",
+  "main": "baseUri.js",
+  "scripts": {
+    "test": "node baseUri.js"
+  },
+  "author": "Sharkbyteprojects",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}
